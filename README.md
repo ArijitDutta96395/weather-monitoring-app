@@ -2,6 +2,10 @@
 
 A modern, responsive Django web application that provides real-time weather information for cities worldwide. Built with Django framework and integrated with OpenWeatherMap API and Google Custom Search API for dynamic city imagery.
 
+| ![Dashboard](https://github.com/ArijitDutta96395/weather-monitoring-app/blob/main/pic1.png) | ![Weather Details](https://github.com/ArijitDutta96395/weather-monitoring-app/blob/main/pic2.png) | ![Forecast View](https://github.com/ArijitDutta96395/weather-monitoring-app/blob/main/pic3.png) |
+|:---:|:---:|:---:|
+| Dashboard showing New York | Kolkata | Bangalore |
+
 ## 🌟 Features
 
 - **Real-time Weather Data**: Get current weather conditions for any city
